@@ -12,4 +12,5 @@ def baseComponent(F,theta):
     print('fx='+str(round(fx,2)))
     print('fy='+str(round(fy,2)))
     
-    
+    # want to know more visit the following link
+    # https://www.youtube.com/watch?v=0NeXcc_B9_o&list=PLHZy9r1OiTUda2KcyDBVHdVKoMwaNjxB-&index=6
