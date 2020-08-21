@@ -11,3 +11,5 @@ def baseComponent(F,theta):
     fy=F*m.sin(theta*(m.pi)/180)
     print('fx='+str(round(fx,2)))
     print('fy='+str(round(fy,2)))
+    
+    
